@@ -1,2 +1,2 @@
-# swift-learning-notes
+# Swift learning notes
 Some Swift learning notes
